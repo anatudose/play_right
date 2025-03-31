@@ -1,0 +1,16 @@
+{
+  "name": "play_right",
+  "version": "1.0.0",
+  "description": "playground for playwright",
+  "main": "index.js",
+  "scripts": {
+    "popen": "playwright test --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.14"
+  }
+}
